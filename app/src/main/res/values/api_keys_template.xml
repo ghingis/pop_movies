@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Remove the next line-->
+<resources></resources>
+
+<!--Uncomment the following, set the api key, and remove the "_template" from the name of the file-->
+<!--<resources>-->
+    <!--<string name="THE_MOVIE_DB_API_TOKEN">XXXXX</string>-->
+<!--</resources>-->
