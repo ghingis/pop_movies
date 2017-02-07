@@ -8,6 +8,5 @@
         android:id="@+id/iv_poster"
         app:layout_aspectRatio="66.6666%"
         app:layout_widthPercent="100%"
-        android:scaleType="centerInside"
-        android:contentDescription="@string/xx" />
+        android:scaleType="centerInside" />
 </android.support.percent.PercentFrameLayout>
